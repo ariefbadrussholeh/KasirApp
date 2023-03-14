@@ -4,6 +4,8 @@ Repository untuk Tugas PBKK - Aplikasi Kasir
 
 Kelompok : 
 - Arief Badrus Sholeh (5025201228)
+- Muhammad Fuad Salim (5025201057)
+- Muhammad Raihan Athallah (5025201206)
 
 Ruang lingkup aplikasi kasir:
 1. Input data Barang
